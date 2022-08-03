@@ -5,4 +5,4 @@ Our todo list app would just perform simple CRUD actions. We would be building t
 **npm install && npm run dev**
 
 # Build
-**npm install && npm run build**
+**npm run build**

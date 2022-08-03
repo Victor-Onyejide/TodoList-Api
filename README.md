@@ -3,3 +3,6 @@ Our todo list app would just perform simple CRUD actions. We would be building t
 
 # Start
 **npm install && npm run dev**
+
+# Build
+**npm install && npm run build**
